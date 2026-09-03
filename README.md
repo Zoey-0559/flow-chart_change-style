@@ -44,5 +44,5 @@
 ---
 
 此 Skill 內有兩個主要分工：
-/flowchart-change-style 看圖 → 建模 → 直接吐 SVG
-build_flow.py	把圖建模成 FLOWS → 腳本按資料繪製，輸出每次一致。
+- /flowchart-change-style 看圖 → 建模 → 直接吐 SVG
+- build_flow.py 把圖建模成 FLOWS → 腳本按資料繪製，輸出每次一致。
